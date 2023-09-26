@@ -1,34 +1,10 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package post.test.pkg1;
+package com.mycompany.PostTest1;
 
 import java.util.ArrayList;
-
-class F1Player {
-    private String name;
-    private String team;
-    private int year;
-    
-    public F1Player(String name, String team, int year) {
-        this.name = name;
-        this.team = team;
-        this.year = year;
-    }
-    
-    public String getName(){
-        return name;
-    }
-    
-    public String getTeam(){
-        return team;
-    }
-    
-    public int getYear(){
-        return year;
-    }
-}
 
 public class PostTest1 {
     public static void main(String[] args) {
@@ -49,3 +25,4 @@ public class PostTest1 {
     }
     
 }
+
